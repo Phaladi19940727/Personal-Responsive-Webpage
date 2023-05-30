@@ -1,0 +1,36 @@
+{
+    "user" : {
+        "fullName": "Phaladi Tlhako",
+        "photo" : "./images/me.jpg"
+    },
+    "city" : {
+        "name" : "Johannesburg",
+        "photo" : "./images/city.webp",
+        "description" : " Johannesburg is the provincial capital of Gauteng Province, the wealthiest province in South Africa, and the site of the South African Constitutional Court. The city is one of the 40 largest metropolitan areas in the world, and one of Africa's global cities (classified as a gamma world city)"
+    },
+    "foreignLanguage" : {
+        "language" : "German",
+        "phrases" : [{
+            "englishPhrase" : "I love you",
+            "foreignLanguage" : "Ich liebe dich"
+        },
+        {
+            "englishPhrase" : "Which city is popular?",
+            "foreignLanguage" : "Welche Stadt ist beliebt?"
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Information Retrieval",
+            "description" : "Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds."
+        },
+        {
+            "name" : "Information Management",
+            "description" : "Information management is the appropriate and optimized capture, storage, retrieval, and use of information. It may be personal information management or organizational."
+        },
+        {
+            "name" : "Information Science",
+            "description" : "Information science is the science and practice dealing with the effective collection, storage, retrieval, and use of information. It is concerned with recordable information and knowledge, and the technologies and related services that facilitate their management and use"
+        }
+    ]
+}
